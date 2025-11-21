@@ -121,10 +121,4 @@ terraform destroy
 Then manually remove the S3 state bucket if needed.
 
 
-##  Notes
-
-- This is a minimal working deployment.
-- Extend modules as required for production (private subnets, NAT, HTTPS, ALB, etc.).
-- Task definition requires database environment variables for WordPress to connect to RDS.
-
 ---
