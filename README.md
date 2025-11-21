@@ -15,7 +15,7 @@ This deployment follows best practices with security groups, IAM, networking, an
 
 ## 📄 Architecture Diagram
 
-![Alt Text](docs-diagram/archdig.jpeg)
+![Alt Text](docs-diagram/archdig.jpg)
 
 ---
 ##  Prerequisites
